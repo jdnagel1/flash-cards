@@ -73,3 +73,13 @@
 .hidden19 {
   display: none;
 }
+
+div.jumbotron {
+  height: 150px;
+  background-color: tan;
+  border: 4px dotted black
+}
+
+body {
+  font-family: 'Fredoka One', cursive;
+}
